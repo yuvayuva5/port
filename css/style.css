@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(/port/images/pexels-startup-stock-photos-7108.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 0;
+}
+.skills-padding{
+    padding: 80px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
